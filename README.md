@@ -6,7 +6,7 @@ Framework'süz, sade ve performanslı **PHP 8.3** uygulamaları yazıyorum.
 - 🔭 Şu an: Kurumsal yönetim panelleri, destek (ticket) ve CRM sistemleri
 - ⚙️ Odak: Server-side DataTables, MSSQL sorgu optimizasyonu, n8n ile otomasyon
 - 🐳 Altyapı: Docker, Windows Server, Plesk
-- 📫 İletişim: <!-- LinkedIn / web sitesi linkini buraya ekle -->
+- 📫 İletişim: [LinkedIn](https://www.linkedin.com/in/batuhan-kahraman-39725b2a2/)
 
 ## 🛠️ Teknolojiler
 
@@ -23,6 +23,7 @@ Framework'süz, sade ve performanslı **PHP 8.3** uygulamaları yazıyorum.
 ## 📊 GitHub İstatistikleri
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Batuhan-Kahraman35&show_icons=true&count_private=true&include_all_commits=true&locale=tr" alt="GitHub istatistikleri" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batuhan-Kahraman35&layout=compact&locale=tr" alt="En çok kullanılan diller" />
+  <img src="https://streak-stats.demolab.com/?user=Batuhan-Kahraman35&locale=tr&theme=transparent&hide_border=true" alt="Katkı serisi" />
 </p>
+
+<img src="https://ghchart.rshah.org/2ea043/Batuhan-Kahraman35" alt="Katkı haritası" />
