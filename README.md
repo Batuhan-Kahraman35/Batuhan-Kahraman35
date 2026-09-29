@@ -25,5 +25,3 @@ Framework'süz, sade ve performanslı **PHP 8.3** uygulamaları yazıyorum.
 <p>
   <img src="https://streak-stats.demolab.com/?user=Batuhan-Kahraman35&locale=tr&theme=transparent&hide_border=true" alt="Katkı serisi" />
 </p>
-
-<img src="https://ghchart.rshah.org/2ea043/Batuhan-Kahraman35" alt="Katkı haritası" />
