@@ -1,7 +1,6 @@
 # Merhaba, ben Batuhan 👋
 
 Web tabanlı yönetim panelleri, CRM ve iş süreçleri otomasyonu geliştiren bir yazılım geliştiricisiyim.
-Framework'süz, sade ve performanslı **PHP 8.3** uygulamaları yazıyorum.
 
 - 🔭 Şu an: Kurumsal yönetim panelleri, destek (ticket) ve CRM sistemleri
 - ⚙️ Odak: Server-side DataTables, MSSQL sorgu optimizasyonu, n8n ile otomasyon
